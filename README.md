@@ -1,60 +1,39 @@
-# Hello, I'm Tyler 
+# 👋 Hi there, I'm Tyler!  
+
+I'm an **aspiring Cloud Computing Engineer** with a passion for building and managing **scalable, reliable infrastructure**. My journey has been fueled by curiosity, hands-on experience, and a drive to keep learning every day.  
+
 <a href="https://www.linkedin.com/in/tyler-westcoat-871502204/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+---
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+## 🚀 About Me  
 
-## Objective (To-Do Update Objective)
-[Provide Objective - Remove this afterwards]]
+- 🌩 **Cloud Computing Enthusiast**: Proficient with AWS services like **S3, RDS, VPC, EC2, IAM, Lambda**, and **Route53**. I enjoy designing efficient cloud architectures and automating workflows.  
+- 💻 **Technical Troubleshooter**: Experienced in **IT troubleshooting** and solving complex issues, ensuring minimal downtime and maximum reliability.  
+- 🗣 **Great Communicator**: Skilled at breaking down advanced technical topics into terms that are easy to understand for non-technical audiences.  
+- 🙋‍♂️ **Customer-Focused**: My background in **customer service** has taught me to prioritize end-user satisfaction while maintaining technical excellence.  
+- 🌟 **Lifelong Learner**: Always eager to learn new skills, tools, and technologies to stay ahead in the ever-evolving tech landscape.  
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+---
 
-## Skills (To-Do Update Skills)
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+## 🔧 Technologies & Tools  
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+- **Cloud Platforms**: AWS (S3, RDS, VPC, EC2, IAM, Lambda, Route53)  
+- **Networking & Infrastructure**: Building and managing scalable, secure networks  
+- **Scripting & Automation**: Automating tasks and improving workflows  
 
-## Tools (To-Do link Tools)
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+---
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+## 🌱 Current Goals  
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+- 📚 **Mastering Cloud Security**: Exploring threat protection, identity management, and secure cloud design.  
+- 🛠 **Contributing to Open Source**: Building projects that help others learn and grow.  
+- 🖥 **Showcasing Projects**: Creating repositories that highlight my skills and problem-solving capabilities.  
 
-### SIEM (To-Do link SIEMs)
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+---
 
-## Certifications (To-Do link certs)
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+## 💡 Let's Connect!  
 
-## Projects (To-Do create project repositories and link)
-- Detection Lab
-- SOC Automation Project
+If you're interested in cloud computing, infrastructure design, or just want to chat tech, feel free to reach out or explore my projects. I’m always open to **learning from others** and collaborating on exciting ideas!  
+
+😊 Thanks for visiting my GitHub—let’s build something awesome together!  
