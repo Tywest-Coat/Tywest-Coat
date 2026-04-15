@@ -22,6 +22,7 @@ I'm a **Cloud DevOps Engineer** focused on designing, automating, and shipping p
 - 🔐 Hardening environments with **IAM least-privilege**, VPC design, and security best practices
 - 🐳 Containerizing services end-to-end with **Docker**
 - 📜 Automating everything with **Bash**, **Python**, and the **AWS CLI**
+- 🧠 **Constantly learning** — always picking up new tools, patterns, and technologies to sharpen my craft and stay ahead in the field
 
 ---
 
